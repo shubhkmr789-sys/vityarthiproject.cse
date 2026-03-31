@@ -1,0 +1,19 @@
+TASK 5(B)
+Stay Safe Online: A Guide for College Students
+As a Digital Ambassador, I’ve compiled these 8 essential tips to help you navigate the digital world securely.
+Financial & UPI Safety
+1. PIN is for Sending, Not Receiving: Remember that you never need to enter your UPI PIN to receive money. If a QR code or link asks for your PIN while someone is "sending" you funds, it is a scam.
+2. Verify Merchant Names: Before hitting 'Pay' on any UPI app, always double-check the verified name of the recipient. Scammers often use names like "Electricity Board Official" or "College Accounts" to look legitimate.
+General Digital Security
+3. Use 2FA Everywhere: Enable Two-Factor Authentication (2FA) on your university email, LinkedIn, and Instagram. This provides a second layer of defense even if your password is stolen.
+4. Avoid Public Wi-Fi for Banking: Never log into your bank account or enter credit card details while connected to public or unprotected Wi-Fi networks (like at cafes or airports).
+5. Check for "HTTPS": Before entering any login credentials on a website, ensure the URL starts with https:// and has a padlock icon in the address bar.
+6. Don’t Click Urgent Links: Be wary of emails or SMS messages creating a "sense of urgency" (e.g., "Your account will be suspended in 2 hours"). Always go directly to the official website instead of clicking the link provided.
+7. Review App Permissions: Regularly check which apps have access to your contacts, location, and microphone. Delete apps that you no longer use.
+8. Secure Your Social Media: Regularly review your privacy settings. Avoid sharing your home address, phone number, or travel plans in real-time on public profiles.
+
+How to Report Cybercrime in India
+If you or someone you know falls victim to a digital crime, act immediately:
+* National Cyber Crime Portal: cybercrime.gov.in
+* National Helpline Number: 1930 (Call this immediately for financial frauds).
+*
