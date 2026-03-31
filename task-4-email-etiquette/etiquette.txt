@@ -1,0 +1,15 @@
+Task 4(B): Social Media Do's and Don'ts checklist.
+
+The Do’s (Best Practices)
+* Do set your personal accounts to private if you use them strictly for family and friends.
+* Do use professional platforms like LinkedIn and GitHub to showcase your technical projects and certifications.
+* Do fact-check any news or technical "hacks" before sharing them to prevent the spread of misinformation.
+* Do engage politely in technical discussions on platforms like Kaggle or Stack Overflow.
+* Do use a professional-looking profile picture and a clear bio that mentions your branch and year.
+The Don’ts (Common Mistakes)
+* Don’t post any sensitive information, such as your OTPs, home address, or private photos.
+* Don’t engage in "online arguments" or use unprofessional language that could be traced back to your name.
+* Don’t share "cracked" software links or unauthorized exam materials, as this violates academic ethics.
+* Don’t tag professors or college officials in casual or irrelevant personal posts.
+* Don’t post anything you wouldn't be comfortable showing to a future employer during an interview.
+*
