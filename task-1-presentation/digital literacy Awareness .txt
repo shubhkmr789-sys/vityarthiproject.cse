@@ -1,0 +1,15 @@
+Module 1: Digital Literacy Awareness
+Created a visual guide using Canva to help batchmates understand the four pillars of digital literacy: Awareness, Security, Professional Presence, and Critical Thinking.
+
+  Task 1: Digital Literacy Awareness Infographic
+Tool : Canva
+Design Overview: For the first task of my Student Digital Ambassador assignment, I designed a one-page visual resource titled "Digital Literacy Guide". The infographic is structured into four distinct phases to help my peers navigate the digital landscape effectively.
+
+STEP 1: Awareness focuses on defining digital literacy as the ability to find and evaluate information beyond just using a smartphone.
+
+STEP 2: Security highlights essential safety practices, such as using strong passwords and enabling Two-Factor Authentication.
+
+STEP 3: Presence emphasizes the importance of a professional digital footprint on platforms like GitHub or LinkedIn.
+
+STEP 4: Critical Thinking addresses the responsibility of fact-checking to stop the spread of misinformation.
+Reflections: I found the process of condensing complex topics into short, actionable bullet points quite interesting, as it forced me to think about what information is most vital for a student's safety
