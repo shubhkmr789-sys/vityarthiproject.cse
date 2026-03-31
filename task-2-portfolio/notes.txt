@@ -1,0 +1,8 @@
+Task 2: Student Digital Portfolio Report
+Platforms :LinkedIn, and Kaggle.
+Description and Usage: For my foundational digital portfolio, I established professional accounts on  LinkedIn, and Kaggle. 
+
+LinkedIn serves as my primary professional network, where I have documented my academic credentials at VIT Bhopal University and highlighted my achievements, such as securing a 84.5% in my XII Senior School Certificate Examination. 
+Lastly, I chose Kaggle to engage with the data science community, allowing me to explore real-world datasets and apply my Python skills to solve complex analytical problems.
+
+Future Plans: the next four years of my B.Tech CSE Core program, I plan to use these platforms as a living record of my engineering journey. 
